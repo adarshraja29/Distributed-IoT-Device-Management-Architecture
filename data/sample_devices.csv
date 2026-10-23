@@ -1,0 +1,31 @@
+device_id,device_type,name,location,registration_time,connection_status,firmware_version,config_version,battery_level,reporting_interval
+SENSOR-001,environmental,Ambient Room Monitor 1,Building A - Room 101,2026-10-20 08:00:00,online,v1.2.0,1,92,10
+SENSOR-002,temperature,HVAC Temp Probe A,Building A - HVAC Plant,2026-10-20 08:05:00,online,v1.1.4,1,88,15
+SENSOR-003,humidity,Server Room Humidity A,Building A - Server Room,2026-10-20 08:10:00,online,v1.2.1,2,76,10
+SENSOR-004,environmental,Lab Microclimate 1,Building B - Lab 201,2026-10-20 08:15:00,online,v1.2.0,1,95,10
+SENSOR-005,battery_monitor,UPS Backup Battery 1,Building A - Power Substation,2026-10-20 08:20:00,online,v2.0.1,1,18,30
+SENSOR-006,temperature,Cold Storage Probe,Building C - Cafeteria Store,2026-10-20 08:25:00,online,v1.1.2,1,82,5
+SENSOR-007,environmental,Library Quiet Zone,Building D - Library Hall,2026-10-20 08:30:00,online,v1.2.0,1,64,15
+SENSOR-008,humidity,Archives Humidity Monitor,Building D - Archives,2026-10-20 08:35:00,online,v1.2.1,1,70,20
+SENSOR-009,temperature,Auditorium Temp 1,Building A - Main Auditorium,2026-10-20 08:40:00,offline,v1.0.8,1,45,15
+SENSOR-010,environmental,Outdoor Station South,Campus South Lawn,2026-10-20 08:45:00,online,v1.3.0,3,89,10
+SENSOR-011,environmental,Outdoor Station North,Campus North Gate,2026-10-20 08:50:00,online,v1.3.0,2,84,10
+SENSOR-012,battery_monitor,Solar Bank 1 Monitor,Rooftop Solar Array,2026-10-20 08:55:00,online,v2.0.1,1,14,30
+SENSOR-013,temperature,Chemistry Lab Sensor,Building B - Lab 305,2026-10-20 09:00:00,online,v1.2.0,1,91,10
+SENSOR-014,humidity,Cleanroom Humidity,Building B - Cleanroom,2026-10-20 09:05:00,online,v1.2.2,2,93,5
+SENSOR-015,environmental,Staff Lounge Station,Building A - 3rd Floor Lounge,2026-10-20 09:10:00,online,v1.2.0,1,79,15
+SENSOR-016,temperature,Server Rack 01 Inflow,Building A - Server Room,2026-10-20 09:15:00,online,v1.2.4,1,98,5
+SENSOR-017,temperature,Server Rack 02 Outflow,Building A - Server Room,2026-10-20 09:20:00,online,v1.2.4,1,97,5
+SENSOR-018,environmental,Greenhouse Climate 1,Campus Botanical Center,2026-10-20 09:25:00,online,v1.3.1,1,85,10
+SENSOR-019,battery_monitor,UPS Backup Battery 2,Building B - Telecom Hub,2026-10-20 09:30:00,online,v2.0.1,1,72,30
+SENSOR-020,humidity,Basement Storage Humidity,Building C - Basement,2026-10-20 09:35:00,offline,v1.1.0,1,12,20
+SENSOR-021,environmental,Robotics Workshop,Building B - Workshop B12,2026-10-20 09:40:00,online,v1.2.0,1,80,10
+SENSOR-022,temperature,Boiler Room Temp,Building A - Utility Basement,2026-10-20 09:45:00,online,v1.1.5,1,86,10
+SENSOR-023,environmental,Lecture Hall 101,Building C - Lecture Hall 101,2026-10-20 09:50:00,online,v1.2.0,1,88,15
+SENSOR-024,environmental,Lecture Hall 202,Building C - Lecture Hall 202,2026-10-20 09:55:00,online,v1.2.0,1,90,15
+SENSOR-025,battery_monitor,Generator Starter Battery,Utility Yard East,2026-10-20 10:00:00,online,v2.0.0,1,99,60
+SENSOR-026,temperature,Network Closet 3A,Building D - 3rd Floor Closet,2026-10-20 10:05:00,offline,v1.1.2,1,38,15
+SENSOR-027,humidity,Museum Archive Storage,Campus Heritage Center,2026-10-20 10:10:00,online,v1.2.2,2,78,10
+SENSOR-028,environmental,Faculty Boardroom,Building A - Executive Wing,2026-10-20 10:15:00,online,v1.2.0,1,83,15
+SENSOR-029,environmental,Student Study Center,Building D - Ground Floor,2026-10-20 10:20:00,online,v1.2.0,1,87,15
+SENSOR-030,battery_monitor,Solar Bank 2 Monitor,Rooftop Solar Array,2026-10-20 10:25:00,online,v2.0.1,1,89,30
